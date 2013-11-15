@@ -7,7 +7,7 @@ import java.util.List;
 
 public class FileHandling {
 
-	private static String localRepoPath = "C:\\Users\\gsharma\\git\\jgit-box";
+	private static String localRepoPath = ".";
 	private static List<Dir> dir = new ArrayList<Dir>();
 
 	/**
